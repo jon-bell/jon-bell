@@ -41,4 +41,6 @@ Here's a brief overview of repositories that I contribute to and/or maintain tha
 - [hcoles/pitest](https://github.com/hcoles/pitest/), Java mutation testing tool. Contributed a [faster, more precise coverage implementation](https://github.com/hcoles/pitest/pull/534) 
 - [rohanpadhye/JQF](https://github.com/rohanpadhye/JQF/), Java fuzzing tool. Contributed a [faster, collision-free coverage implementation](https://github.com/rohanpadhye/JQF/pull/171)
 
+
+## 📊 Language Stats
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=jon-bell&langs_count=10&layout=compact)

@@ -1,4 +1,4 @@
-# 👋
+# Hello! 👋
 Here's a brief overview of repositories that I contribute to and/or maintain that might be useful for others. Find more that isn't on GitHub at [jonbell.net](https://www.jonbell.net/).
 
 ## :teacher: Teaching Materials

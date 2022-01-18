@@ -16,6 +16,7 @@ Here's a brief overview of repositories that I contribute to and/or maintain tha
 - [jon-bell/jon-bell-Jekyll-Canvas-Integration-Test-Class](https://github.com/jon-bell/jon-bell-Jekyll-Canvas-Integration-Test-Class), Jekyll plugin to auto-post assignments and lectures to Canvas
 
 ## :microscope: Research Projects
+- [neu-se/CONFETTI](https://github.com/neu-se/CONFETTI), Fuzzing + taint tracking + concolic execution for the JVM
 - [gmu-swe/phosphor](https://github.com/gmu-swe/phosphor), Dynamic tracking system for the JVM
 - [gmu-swe/knarr](https://github.com/gmu-swe/knarr), Path constraint collection for the JVM
 - [gmu-swe/crochet](https://github.com/gmu-swe/crochet), Fine-grained checkpoint/rollback for the JVM

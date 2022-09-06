@@ -3,6 +3,7 @@ Here's a brief overview of repositories that I contribute to and/or maintain tha
 
 ## :teacher: Teaching Materials
 - CS 4530 - "Fundamentals of Software Engineering" @ Northeastern (Undergrad)
+    - [neu-se/CS4530-Fall-2022](https://github.com/neu-se/CS4530-Fall-2022), see also [site](https://neu-se.github.io/CS4530-Fall-2022/)
     - [neu-se/CS4530-Spring-2022](https://github.com/neu-se/CS4530-Spring-2022), see also [site](https://neu-se.github.io/CS4530-Spring-2022/)
     - [neu-se/CS4530-CS5500-Spring-2021](https://github.com/neu-se/CS4530-CS5500-Spring-2021), see also [site](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)
 - CS 7580 - "Special Topics on Software Engineering" @ Northeastern (Grad)

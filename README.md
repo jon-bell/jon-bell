@@ -14,7 +14,7 @@ Here's a brief overview of repositories that I contribute to and/or maintain tha
 
 ## :abacus: Infrastructure for Teaching
 - [neu-se/covey.town](https://github.com/neu-se/covey.town), term project for CS4530, see also [deployed app](https://app.covey.town)
-- [jon-bell/jon-bell-Jekyll-Canvas-Integration-Test-Class](https://github.com/jon-bell/jon-bell-Jekyll-Canvas-Integration-Test-Class), Jekyll plugin to auto-post assignments and lectures to Canvas
+- [jon-bell/jekyll-canvas-lms](https://github.com/jon-bell/jekyll-canvas-lms), Jekyll plugin to auto-post assignments and lectures to Canvas
 
 ## :microscope: Research Projects
 - [neu-se/CONFETTI](https://github.com/neu-se/CONFETTI), Fuzzing + taint tracking + concolic execution for the JVM

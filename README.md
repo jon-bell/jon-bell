@@ -35,7 +35,8 @@ Here's a brief overview of repositories that I contribute to and/or maintain tha
 
 ## :bicyclist: Personal Projects
 - [clowdr-app/clowdr](https://github.com/clowdr-app/clowdr), Midspace virtual conference platform
-- [jon-bell/homebridge-synology-surveillance-homemode](https://github.com/jon-bell/homebridge-synology-surveillance-homemode), Homebridge plugin that exposes a switch to turn on/off the 'Home' mode on Synology Surveillance Station
+- [jon-bell/homebridge-plugin-anova-toast](https://github.com/jon-bell/homebridge-plugin-anova-toast), Homebridge plugin that exposes a switch to turn on/off the 'Home' mode on Synology Surveillance Station
+- [jon-bell/homebridge-synology-surveillance-homemode](https://github.com/jon-bell/homebridge-synology-surveillance-homemode), Homebridge plugin that implements the Anova Precision Oven API. What if making toast were as easy as pushing a single button, or, that failing, a siri command away?
 - [jon-bell/homebridge-platform-daikin-itc](https://github.com/jon-bell/homebridge-platform-daikin-itc), Homebridge plugin that exposes a multi-zone Daikin ITC HVAC system
 
 ## :tada: Other projects that I have contributed to
